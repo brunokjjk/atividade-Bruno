@@ -11,7 +11,7 @@
 <!-- Conteúdo vem a seguir -->
 </bod<header>
 
-<h1>Portfólio de Maria Silva</h1>
+<h1>Portfólio de Bruno Sprenger</h1>
 <p>Estudante de desenvolvimento web — HTML, CSS e JavaScript.</p>
 <nav aria-label="Navegação principal">
 <ul>
