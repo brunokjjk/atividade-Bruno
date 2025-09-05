@@ -23,13 +23,13 @@
 </header>y>
 </main>
 <footer>
-<small>&copy; 2025 Maria Silva. Todos os direitos reservados.</small>
+<small>&copy; 2025 Bruno Sprenger. Todos os direitos reservados.</small>
 </footer>
 <main>
 <section id="sobre">
 <h2>Sobre</h2>
 <figure>
-<img src="https://via.placeholder.com/240" alt="Retrato de Maria sorrindo
+<img src="https://via.placeholder.com/240" alt="Retrato de Bruno Sprenger
 de frente.">
 <figcaption>Foto ilustrativa do perfil</figcaption>
 </figure>
